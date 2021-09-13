@@ -1,0 +1,28 @@
+button{
+    cursor: pointer;
+    border: none;
+    border-radius: 5%;
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    padding: 6px;
+}
+*{
+    font-size: 20px;
+    
+    
+}
+table,th,td {
+    border: 1px solid lightgray;
+    border-spacing: 0px;
+}
+td{
+    padding: 10px;
+}
+#header{
+    color: white; background-color: tomato; padding: 30px;
+}
+#input-field{
+    display: flex;justify-content: flex-end; padding: 30px;gap: 5px;
+}
+
